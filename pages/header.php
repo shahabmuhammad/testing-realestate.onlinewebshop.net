@@ -10,12 +10,11 @@
             alt="Background Image">
         <div class="overlay"></div>
 
-        <?php include_once 'navbar.php'; ?>
         <div class="heading">
             <p class="text">Redefining Excellence in Real Estate</p>
             <p class="text">Gwadar, Pakistan – The Strategic Investment Destination</p>
             <h1 class="title">Paragon Heights Gwadar</h1>
             <p class="subtext">Early Opportunities, Endless Possibilities</p>
-            <a href="https://youtu.be/gXMNtw8xnEc?si=rCsA6jBugXyZPYbt" target="_blank"><button class="cta-button">Discover Now </button></a>
+            <a href="https://www.youtube.com/watch?v=wfQuPYrOFnU" target="_blank"><button class="cta-button">Discover Now </button></a>
         </div>
     </div>

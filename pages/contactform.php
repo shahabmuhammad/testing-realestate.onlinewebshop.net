@@ -4,7 +4,7 @@
   <button class="close-button" id="closeModal" aria-label="Close Modal">
     <!-- &times; -->
   </button>
-  <div class="modal-content">
+  <div class="modal-content" style="background: unset !important;">
     <div class="modal-header">
       <h6 class="subheadline">Paragon Heights</h6>
       <h2 class="heading_">Let's Connect</h2>

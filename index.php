@@ -22,7 +22,7 @@
 </head>
 
 <body id="home_index">
-
+        <?php include_once './pages/navbar.php'; ?>
         <?php include_once './pages/header.php'; ?>
         <?php include_once './pages/social-icons.php' ?>
         <?php include './pages/about.php' ?>

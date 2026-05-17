@@ -1637,7 +1637,7 @@ section#all-news {
   transform: translate(-50%, -50%);
   width: 80%;
   max-width: 900px;
-  /* background: #fff; */
+  background:unset !important;
   color: #fff;
   border-radius: 10px;
   padding: 20px;

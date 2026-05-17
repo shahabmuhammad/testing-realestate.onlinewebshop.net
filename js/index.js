@@ -23,7 +23,7 @@ window.addEventListener('load', () => {
 //    } else {
 //        navbar.classList.remove('scrolled'); // Revert to original styles
 //    }
-});
+// });
 
 
 

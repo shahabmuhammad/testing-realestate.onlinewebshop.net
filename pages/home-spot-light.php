@@ -498,7 +498,6 @@
 </div>
 
 <script>
-    debugger
     // Select Elements
     const playButton = document.getElementById('play-btn');
     const modal = document.getElementById('videoModal');
@@ -507,7 +506,6 @@
 
     // Add Event Listener to Play Button
     playButton.addEventListener('click', () => {
-        debugger
         const videoSrc = playButton.getAttribute('data-src');
         videoPlayer.src = videoSrc;
         modal.style.display = 'flex';

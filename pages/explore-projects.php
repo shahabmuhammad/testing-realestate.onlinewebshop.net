@@ -207,7 +207,7 @@
     </div>
     <!---------------------------------- Explore our projects ends ---------------------------------->
     <div class="land-opportunity">
-      <a href="#" class="team-content learn-more-btn"
+      <a href="land-opportunity-page.php" class="team-content learn-more-btn"
         >View All Land Opportunity</a
       >
     </div>

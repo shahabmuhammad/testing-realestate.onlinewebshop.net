@@ -12,7 +12,7 @@
                 <a href="properties-listing.php">Properties</a>
                 <ul class="_dropdown">
                     <li class="_dropdown-item">
-                        <a href="properties-listing.php" data-uw-original-href="properties-listing.php">Land Opportunities</a>
+                        <a href="land-opportunity-page.php" data-uw-original-href="land-opportunity-page.php">Land Opportunities</a>
                     </li>
                     <li class="_dropdown-item">
                         <a>Property Block Categories</a>
@@ -20,7 +20,7 @@
                 </ul>
             </li>
             <li class="header_menu"><a href="#">Prime Location</a></li>
-            <li class="header_menu"><a class="openModal" type="button">Contact Us</a></li>
+            <li class="header_menu"><a href="#" class="openModal" role="button">Contact Us</a></li>
             <li class="header_menu"><a href="tel:+92-332-7272448">0332 7272448</a></li>
             <li class="hamburger-menu-icon"><a onclick="toggleMenu()">&#9776;</a></li>
         </ul>
@@ -31,6 +31,7 @@
     <div class="close-icon" onclick="toggleMenu()">&#10005;</div>
     <ul class="extended-menu">
         <li><a href="/">Home</a></li>
+        <li><a href="land-opportunity-page.php">Land Opportunities</a></li>
         <li><a href="#">Why Paragon</a></li>
             <li><a href="#">Our Vision</a></li>
         <li><a href="#">FAQs</a></li>
