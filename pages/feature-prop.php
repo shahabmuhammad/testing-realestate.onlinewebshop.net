@@ -175,7 +175,7 @@
 
     <div id="owl-carousel-fp" class="owl-carousel owl-theme">
       <div class="item">
-        <a href="#">
+        <a href="prop-detail-page.php?property=diamond-commercial-block">
           <div class="listing-container">
             <div class="listing-image-container">
               <div class="fp-img">
@@ -197,7 +197,7 @@
         </a>
       </div>
       <div class="item">
-        <a href="#">
+        <a href="prop-detail-page.php?property=gold-crest-commercial-block">
           <div class="listing-container">
             <div class="listing-image-container">
               <div class="fp-img">
@@ -219,7 +219,7 @@
         </a>
       </div>
       <div class="item">
-        <a href="#">
+        <a href="prop-detail-page.php?property=garden-facing-premier-commercial-and-residential-block-1">
           <div class="listing-container">
             <div class="listing-image-container">
               <div class="fp-img">
@@ -241,7 +241,7 @@
         </a>
       </div>
       <div class="item">
-        <a href="#">
+        <a href="prop-detail-page.php?property=garden-facing-premier-commercial-and-residential-block-2">
           <div class="listing-container">
             <div class="listing-image-container">
               <div class="fp-img">
@@ -263,7 +263,7 @@
         </a>
       </div>
       <div class="item">
-        <a href="#">
+        <a href="prop-detail-page.php?property=garden-facing-premier-residential-block-1">
           <div class="listing-container">
             <div class="listing-image-container">
               <div class="fp-img">
@@ -286,7 +286,7 @@
         </a>
       </div>
       <div class="item">
-        <a href="#">
+        <a href="prop-detail-page.php?property=premier-residential-block-2">
           <div class="listing-container">
             <div class="listing-image-container">
               <div class="fp-img">

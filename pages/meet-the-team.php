@@ -149,7 +149,7 @@
           <p>
             We invite visionary investors to explore how Paragon Heights can align with their strategic goals. Positioned at the forefront of Gwadar’s development, this project offers unmatched potential for those ready to shape the future of a global investment destination.
           </p>
-          <a href="./prime-location.php" class="learn-more-btn">Learn More</a>
+          <a href="./vision.php" class="learn-more-btn">Learn More</a>
         </div>
       </div>
     </section>

@@ -139,7 +139,7 @@
 
     <!---------------------------------- Explore our projects ---------------------------------->
     <div class="__container__">
-      <a href="#">
+      <a href="prop-detail-page.php?property=high-end-five-star-hotels">
         <div class="__item__">
           <img
             src="https://res.cloudinary.com/luxuryp/images/w_1920,c_limit,f_auto,q_auto/y1iqxwt0r5py0q0xg70k/krisztina-papp-sgxr_tzqgpi-unsplash"
@@ -150,7 +150,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="prop-detail-page.php?property=modern-restaurants">
         <div class="__item__">
           <img
             src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/mgxtmrbvq4f5jvjaq7ym/shutterstock_1804409353-1"
@@ -161,7 +161,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="prop-detail-page.php?property=luxurious-residential-apartments">
         <div class="__item__">
           <img
             src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/aqilhnbu0vrdahbl9rz1/-1853738951"
@@ -172,7 +172,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="prop-detail-page.php?property=state-of-art-office-complexes">
         <div class="__item__">
           <img
             src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/mgxtmrbvq4f5jvjaq7ym/shutterstock_1804409353-1"
@@ -183,7 +183,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="prop-detail-page.php?property=large-scale-shopping-centers-and-hypermarkets">
         <div class="__item__">
           <img
             src="https://res.cloudinary.com/luxuryp/images/f_auto,q_auto/aqilhnbu0vrdahbl9rz1/-1853738951"
@@ -194,7 +194,7 @@
         </div>
       </a>
 
-      <a href="#">
+      <a href="prop-detail-page.php?property=educational-institutions-and-facilities">
         <div class="__item__">
           <img
             src="https://res.cloudinary.com/luxuryp/images/w_1920,c_limit,f_auto,q_auto/y1iqxwt0r5py0q0xg70k/krisztina-papp-sgxr_tzqgpi-unsplash"

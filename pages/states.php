@@ -1,15 +1,15 @@
 <div class="counter-section_" id="counterSection">
       <div class="counter-item_">
         <h2 class="counter_" data-target="6">0</h2>
-        <p_>Projects Completed</p_>
+                <p_>Unique Blocks Categories</p_>
       </div>
       <div class="counter-item_">
-        <h2 class="counter_" data-target="320">0</h2>
-        <p_>Happy Clients</p_>
+                <h2 class="counter_" data-target="73">0</h2>
+                <p_>Unique Plots</p_>
       </div>
       <div class="counter-item_">
-        <h2 class="counter_" data-target="98.5">0</h2>
-        <p_>Satisfaction Rate</p_>
+                <h2 class="counter_" data-target="100" data-suffix="%">0</h2>
+                <p_>Highrise</p_>
       </div>
     </div>
 
@@ -23,6 +23,7 @@ const animateCounters = () => {
 
 const updateCounter = () => {
     const target = parseFloat(counter.getAttribute("data-target"));
+    const suffix = counter.getAttribute("data-suffix") || "";
     const current = parseFloat(counter.textContent) || 0;
 
     const increment = target / 50;
@@ -34,14 +35,16 @@ const updateCounter = () => {
             next = target;
         }
 
-        counter.textContent =
-            target % 1 !== 0
-                ? next.toFixed(1)
-                : Math.ceil(next);
+        const displayedValue = target % 1 !== 0
+            ? next.toFixed(1)
+            : Math.ceil(next);
+
+        counter.textContent = `${displayedValue}${suffix}`;
 
         requestAnimationFrame(updateCounter);
     } else {
-        counter.textContent = target;
+        const finalValue = target % 1 !== 0 ? target.toFixed(1) : target;
+        counter.textContent = `${finalValue}${suffix}`;
     }
 };
 
