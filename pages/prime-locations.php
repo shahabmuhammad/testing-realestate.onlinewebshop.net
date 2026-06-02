@@ -1,1 +1,0 @@
-<h1>Prime LOcations Page </h1>

@@ -1,7 +1,7 @@
 <footer style="overflow-x:hidden">
     <div class="footer-container" id="global-footer">
         <!-- Featured In -->
-          <!-- <div class="featured-container">
+        <!-- <div class="featured-container">
     <div class="footer-section featured">
         <h3>FEATURED IN</h3>
         <div class="featured-logos">
@@ -42,14 +42,14 @@
                         <h3>USEFUL LINKS</h3>
                         <ul>
                             <li><a href="/">Home</a></li>
-                            <li><a href="#">Our Vision</a></li>
-                            <li><a href="#">Land Opportunities</a></li>
-                            <li><a href="properties-listing.php">Property Block Categories</a></li>
-                            <li><a href="#">Prime Location</a></li>
+                            <li><a href="phgvision.php">Our Vision</a></li>
+                            <li><a href="land-opportunity.php">Land Opportunities</a></li>
+                            <li><a href="property-blocks.php">Property Block Categories</a></li>
+                            <li><a href="prime-location.php">Prime Location</a></li>
                             <li><a href="#">Media</a></li>
                             <li><a href="#">Gwadar Smart Port City</a></li>
                             <li><a href="#">Featured News</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="javascript:void(0)" class="openModal" role="button">Contact Us</a></li>
                         </ul>
                     </div>
 
@@ -61,7 +61,7 @@
                                 href="mailto:sultan@paragonheights-gwadar.com">sultan@paragonheights-gwadar.com</a></p>
                     </div>
                 </div>
-<br><br>
+                <br><br>
                 <!-- Locations -->
                 <div class="footer-section locations">
                     <h3>LOCATIONS</h3>
@@ -89,7 +89,7 @@
         </div>
         <div class="socail_media_container">
             <div class="socials">
-              <!--   <a href="https://www.instagram.com/paragonheightsgwadar/" class="socials__item"
+                <!--   <a href="https://www.instagram.com/paragonheightsgwadar/" class="socials__item"
                     target="_blank" aria-label="Instagram">
                     <i class="fab fa-instagram"></i>
                 </a>
@@ -109,7 +109,7 @@
         </div>
         <div class="copy_right_container">
             <div class="copy_right_section">
-                  <!-- <div class="footer__branding">
+                <!-- <div class="footer__branding">
     <img src="assets/img/logo.png" alt="Luxury Presence Logo"
         class="footer__logo">
 </div> -->

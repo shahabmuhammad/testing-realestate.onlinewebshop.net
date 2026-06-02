@@ -7,20 +7,20 @@ function openContactModal(event) {
 }
 
 // Open modal when any element with the class 'openModal' is clicked
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll(".openModal").forEach(button => {
     button.addEventListener("click", openContactModal);
   });
 
   // Close modal when the close button or overlay is clicked
-  document.getElementById("closeModal").addEventListener("click", function() {
+  document.getElementById("closeModal").addEventListener("click", function () {
     document.getElementById("modalGlobalContactUs").classList.remove("visible");
   });
-  document.getElementById("modalOverlay").addEventListener("click", function() {
+  document.getElementById("modalOverlay").addEventListener("click", function () {
     document.getElementById("modalGlobalContactUs").classList.remove("visible");
   });
 
-  document.getElementById("contactForm").addEventListener("submit", function(e) {
+  document.getElementById("contactForm").addEventListener("submit", function (e) {
     e.preventDefault();
 
     const contactform = this;
@@ -29,9 +29,9 @@ document.addEventListener("DOMContentLoaded", function() {
     const responseDiv = document.getElementById("formResponse");
 
     fetch("pages/process_contact_form.php", {
-        method: "POST",
-        body: formData,
-      })
+      method: "POST",
+      body: formData,
+    })
       .then(response => response.json())
       .then(data => {
         responseDiv.style.display = "block";
@@ -50,3 +50,8 @@ document.addEventListener("DOMContentLoaded", function() {
       });
   });
 });
+
+
+
+
+// CPEC Page JS

@@ -4,28 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive Background</title>
+    <title>Prime Location | Paragon Heights Gwadar</title>
+    <meta name="description" content="Discover the strategic prime location of Paragon Heights Gwadar, connected to ports, airports and investment corridors.">
+    <link rel="icon" type="image/png" href="./assets/img/mob-logo.png">
     <link rel="stylesheet" href="./styles/style.css">
-    <link rel="stylesheet"
-        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-        <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-    <style>
-        body {
-            overflow-x: hidden;
-        }
-    </style>
 </head>
 
-<body>
-    <?php include_once './pages/vision-hero.php' ?>
-    <?php include_once './pages/prime-locations.php' ?> 
-    <?php include_once './pages/work-with-us.php'; ?>
+<body id="prime-location-page">
+    <?php include_once './pages/navbar.php'; ?>
+    <?php include_once './pages/prime-loc-screen.php'; ?>
     <?php include_once './pages/footer.php'; ?>
-         <?php include_once './pages/contactform.php'; ?>
-
     <script src="./js/index.js"></script>
 </body>
 

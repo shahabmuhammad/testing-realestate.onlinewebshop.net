@@ -5,10 +5,10 @@
 // $password = "farooq@12";
 // $database = "4568765_realestate";
 
-$host = "localhost";
+$host = "127.0.0.1";
 $username = "root";
 $password = "";
-$database = "realestate";
+$database = "phgsitenew";
 
 $conn = new mysqli($host, $username, $password, $database);
 
